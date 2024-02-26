@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
 
-<a href="URL_DEL_PERFIL_DE_TWITTER">
+<a href="#">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
 </a>
 
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
 </a>
 
-<a href="https://www.instagram.com/luis.p.005?igsh=MTluM3V1bXkwMW00bg==">
+<a href="https://www.instagram.com/luis.p.005?igsh=MTluM3V1bXkwMW00bg==" target="blanck">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
 </a>
 
